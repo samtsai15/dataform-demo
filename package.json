@@ -1,0 +1,6 @@
+{
+  "name": "feng-demo-repo",
+  "dependencies": {
+    "@dataform/core": "2.0.1"
+  }
+}
