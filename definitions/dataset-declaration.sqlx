@@ -1,0 +1,5 @@
+config {
+  type: "declaration",
+  schema: "imdb",
+  name: "title_principals",
+}
